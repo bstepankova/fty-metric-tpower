@@ -56,7 +56,6 @@ BuildRequires:  zeromq-devel
 BuildRequires:  czmq-devel
 BuildRequires:  malamute-devel
 BuildRequires:  log4cplus-devel
-BuildRequires:  cxxtools-devel
 BuildRequires:  fty-common-logging-devel
 BuildRequires:  fty-proto-devel
 BuildRequires:  tntdb-devel
@@ -92,7 +91,6 @@ Requires:       zeromq-devel
 Requires:       czmq-devel
 Requires:       malamute-devel
 Requires:       log4cplus-devel
-Requires:       cxxtools-devel
 Requires:       fty-common-logging-devel
 Requires:       fty-proto-devel
 Requires:       tntdb-devel
